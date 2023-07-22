@@ -1,4 +1,4 @@
-# [my-calculator-app](https://iam-ebuka.github.io/my-calculator/)
+# [my-calculator-app](https://iam-ebuka.github.io/my-calculator-app/)
 
 # Getting Started with Create React App
 
